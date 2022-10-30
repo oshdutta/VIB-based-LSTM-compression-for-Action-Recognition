@@ -75,3 +75,14 @@ To convert the obtained VIB sparse model to a dense-compressed model:
 ---------------------------------------------------------------------
 
     python modelport.py --VIBmodel <path_to_VIB_model> --dataset_path UCF11_updated_mpg-frames --latent_dim 2048 --hidden_dim 2048 --featureExtractor Inc
+    
+### If using this code, kindly cite: 
+```
+@inproceedings{srivastava2021variational,
+  title={A variational information bottleneck based method to compress sequential networks for human action recognition},
+  author={Srivastava, Ayush and Dutta, Oshin and Gupta, Jigyasa and Agarwal, Sumeet and AP, Prathosh},
+  booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision},
+  pages={2745--2754},
+  year={2021}
+}
+```
