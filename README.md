@@ -1,7 +1,7 @@
 LSTM Compression with Variational Information Bottleneck
 ========================================================
 
-
+This code is for the paper- ['A variational information bottleneck based method to compress sequential networks for human action recognition'](https://openaccess.thecvf.com/content/WACV2021/html/Srivastava_A_Variational_Information_Bottleneck_Based_Method_to_Compress_Sequential_Networks_WACV_2021_paper.html) published in WACV '21
 Required libraries:
 -------------------
 - pytorch==1.2.0
